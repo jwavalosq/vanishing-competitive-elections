@@ -1,0 +1,13 @@
+# Core data tools (every notebook)
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+
+# Maps (Phases 3 and 5)
+geopandas>=0.14
+
+# Interactive charts (optional, used in Phase 4)
+plotly>=5.18
+
+# Phase 5 only (best effort)
+gerrychain>=1.0
